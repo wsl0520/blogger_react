@@ -1,0 +1,38 @@
+
+#logo{
+    color:#fff;
+    margin-bottom:0;
+    text-align: center;
+}
+#content{
+    color:#000;
+}
+#indexmenu{
+    height: 90vh;
+}
+/* #mainheader{
+    height: 15vh;
+} */
+#mainfooter{
+    width: 100%;
+   position: absolute;
+   bottom: 0;
+   left:0;
+}
+#add{
+    text-align: left;
+}
+.hidden{
+    display: none;
+}
+.show{
+    display: block;
+}
+.img{
+    width: 120px;
+    height: 120px;;
+}
+.loginform{
+    max-width: 680px;
+    margin:200px auto ;
+}
